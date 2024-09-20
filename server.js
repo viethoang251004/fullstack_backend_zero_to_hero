@@ -1,7 +1,7 @@
 const { createServer } = require('http');//node.js
 
 const hostname = 'localhost';//localhost
-const port = 30000;//
+const port = 6969;//
 
 const server = createServer((req, res) => {
   res.statusCode = 200;
